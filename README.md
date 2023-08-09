@@ -1,2 +1,2 @@
 # reinforcement-learning
-# Repository of RL use cases
+### Repository of RL use cases
