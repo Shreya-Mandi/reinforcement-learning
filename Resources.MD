@@ -21,5 +21,5 @@
 # Tensorflow:
 * https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0#.78km20i8r
 
-# If I ever gat the time explore:
+# If I ever get the time, explore:
 * https://huggingface.co/learn/deep-rl-course/unit0/introduction
